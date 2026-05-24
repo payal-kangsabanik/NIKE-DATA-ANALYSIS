@@ -3,6 +3,8 @@
 ## 1. Project Title
 Nike Global Product Dataset — Analysis & Dashboard
 
+https://datastudio.google.com/reporting/c3e4949b-320c-49ae-bc8b-a93e3dc335be
+
 ## 2. Project Overview
 This project analyzes a global Nike product feed (sample under 50MB) to explore pricing, availability, product mix, and market differences across countries. The workflow goes from raw CSV through cleaning and preparation to visualization or dashboarding (examples and dashboards may be stored under `DASHBOARD/`).
 
